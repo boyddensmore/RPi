@@ -17,6 +17,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Linux build files, etc
+*.[oa]
+*~
+*.log
+*.tmp
+
+# ignore all files in build/
+build/
+
 # =========================
 # Operating System Files
 # =========================
